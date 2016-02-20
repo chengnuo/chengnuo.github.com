@@ -1,0 +1,46 @@
+﻿body{
+	background: #000;
+}
+.index-layout-video{
+	position: fixed;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	width:100%;
+	z-index: -1;
+}
+.index-layout-chengnuo{
+	font-size:1.5rem;
+	color: #fff;
+	text-align: center;
+    border-radius: 1.5em;
+    color: #fefefe;
+    overflow: auto;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+
+
+    max-height: 80%;
+    min-width: 90%;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.index-layout-chengnuo-hd{
+
+}
+.index-layout-chengnuo a{
+	color: #fff;
+}
+
+
+.index-layout-chengnuo .am-gallery-imgbordered .am-gallery-title{
+	color: #fff;
+}
+.index-layout-chengnuo .am-gallery-imgbordered .am-gallery-desc{
+	color: #fff;
+}
